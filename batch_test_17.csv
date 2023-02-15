@@ -1,0 +1,13 @@
+userId,timestamp,sku,presentment_currency,price,quantity,sku,presentment_currency,price,quantity,sku,presentment_currency,price,quantity,sku,presentment_currency,price,quantity,sku,presentment_currency,price,quantity
+segmenttest21@yopmail.com,2017-11-07 17:48:07.000 +0000,6lbPRANKWH235,USD,14.99,1,LGCBC8803SMOS,USD,42,1,B3MCSF554SMWH,USD,69.99,1,B3MCSF554MDWH,USD,69.99,1,,,,
+segmenttest21@yopmail.com,2017-11-07 18:08:08.000 +0000,ASSBC6681LGDH,USD,38,1,2lbPRNEODUM22,USD,19.99,2,,,,,,,,,,,,
+segmenttest21@yopmail.com,2017-11-07 19:11:23.000 +0000,3lbPRANKWH225,USD,14.99,1,LGCBC8803SMOS,USD,42,1,,,,,,,,,,,,
+segmenttest22@yopmail.com,2017-11-08 00:09:56.000 +0000,BALLCH2253BLK,USD,59.99,1,,,,,,,,,,,,,,,,
+segmenttest23@yopmail.com,2017-11-08 01:19:36.000 +0000,BALLCH2253BLK,USD,59.99,1,,,,,,,,,,,,,,,,
+segmenttest24@yopmail.com,2017-11-08 13:13:03.000 +0000,BALLCH2253BLK,USD,59.99,2,FITCUFVLG2254,USD,14.99,1,FITCUFLTG2255,USD,15.99,1,,,,,,,,
+segmenttest25@yopmail.com,2017-11-08 14:51:24.000 +0000,FITCUFLTG2255,USD,15.99,1,FITCUFVLG2254,USD,14.99,1,BALLCH2253BLK,USD,59.99,1,2lbPRNEODUM22,USD,19.99,1,3lbPRANKWH225,USD,14.99,1
+segmenttest26@yopmail.com,2017-11-08 15:16:57.000 +0000,BALLCH2253BLK,USD,59.99,1,,,,,,,,,,,,,,,,
+segmenttest27@yopmail.com,2017-11-08 15:21:49.000 +0000,BALLCH2253BLK,USD,59.99,1,,,,,,,,,,,,,,,,
+segmenttest28@yopmail.com,2017-11-08 15:43:15.000 +0000,BALLCH2253BLK,USD,59.99,1,FITCUFVLG2254,USD,14.99,1,,,,,,,,,,,,
+segmenttest29@yopmail.com,2017-11-08 15:51:40.000 +0000,3lbPRANKWH225,USD,14.99,1,6lbPRANKWH235,USD,16.99,1,BALLCH2253BLK,USD,59.99,1,,,,,,,,
+segmenttest30@yopmail.com,2017-11-08 15:58:31.000 +0000,BALLCH2253BLK,USD,59.99,1,,,,,,,,,,,,,,,,
