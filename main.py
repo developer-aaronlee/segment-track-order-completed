@@ -3,7 +3,7 @@ import json
 import requests
 
 url = 'https://api.segment.io/v1/track'
-API_KEY = 'Basic Q3hNWVVReVlCQXYzdUZJeUN1enMxeWN0WDJKSkhGZEY6'
+API_KEY = 'Basic api_key'
 headers = {
     'Content-Type': 'application/json',
     'Authorization': API_KEY
